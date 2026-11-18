@@ -16,7 +16,7 @@ assets/: Screenshots and supporting files.
 
 Progress Tracker
 Day 1: Setup GitHub portfolio and chose practice app.
-Day 2: Learning Equivalence Partitioning.
+
 
 Connect
 LinkedIn: https://www.linkedin.com/in/lwandile-mbatha-9bb7a7258/
